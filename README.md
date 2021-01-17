@@ -48,11 +48,3 @@ Repository developed in a project in which I taught by <a href="https://digitali
 -   Make a push to your branch:  `git push origin my-feature`.
 
 After merging your receipt request to done, you can delete a branch from yours.
-
-
-## [](#license):memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/robertosousa1/clone-instagram-class-dio/blob/master/LICENSE) for more information.
-
-----------
-
-Made with by Roberto Sousa  👋  [Get in touch!](https://www.linkedin.com/in/robertosousa01/)
